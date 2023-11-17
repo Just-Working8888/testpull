@@ -2,9 +2,6 @@ const title = document.getElementById('content')
 const input = document.getElementById('input')
 const button = document.getElementById('button')
 
-button.addEventListener('click', () => {
-    alert('loggoogogog')
-})
 const array = [
  
     {
