@@ -2,16 +2,8 @@ const title = document.getElementById('content')
 const input = document.getElementById('input')
 const button = document.getElementById('button')
 
-
 const array = [
-    {
-        "name": "Pansy_Predovic52",
-        "age": "2",
-        "adress": "8913 Langworth Ranch",
-        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/250.jpg",
-        "desprition": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-        "id": "1"
-    },
+ 
     {
         "name": "Lafayette96",
         "age": "1",
